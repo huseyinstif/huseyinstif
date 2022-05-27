@@ -1,4 +1,4 @@
-### <div align="center">I'm Huseyin Tintas, a full-time backend developer also interested in cyber security</div>  
+### <div align="center">I'm Huseyin Tintas, a full-time Backend Developer also interested in Cyber Security</div>  
   
 
 - 🔭 I’m currently working on [NONSTOP TECHNOLOGIES](https://nonstoptech.us/)  
