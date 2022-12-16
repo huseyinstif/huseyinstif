@@ -1,13 +1,5 @@
-### <div align="center">I'm Huseyin Tintas, a full-time Backend Developer also interested in Cyber Security</div>  
-  
-
-- 🔭 I’m currently working on [NONSTOP TECHNOLOGIES](https://nonstoptech.us/)  
-  
-
-- 🌱 I’m currently learning express js  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+### <div align="center">I'm Huseyin Tintas, a full-time PHP/Wordpress Developer also interested in Cyber Security</div>  
+ 
   
 
 <br/>  
