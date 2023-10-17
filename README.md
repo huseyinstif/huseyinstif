@@ -1,4 +1,4 @@
-### <div align="center">I'm Huseyin Tintas, a full-time PHP/Wordpress Developer also interested in Cyber Security</div>  
+### <div align="center">I'm Huseyin Tintas, a full-time Application Security Specialist @KKB</div>  
  
   
 
